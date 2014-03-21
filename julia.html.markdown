@@ -114,7 +114,7 @@ catch e
     println(e)
 end
 
-# Variable names start with a letter.
+# Variable names start can start with a letter or underscore.
 # After that, you can use letters, digits, underscores, and exclamation points.
 SomeOtherVar123! = 6 # => 6
 
